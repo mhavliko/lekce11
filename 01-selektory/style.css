@@ -36,3 +36,11 @@ element[attr="val"]		element s attributem o určité hodnotě
 						^= na začátku
 						$= na konci
 */
+
+.box .vnitrek p {
+  background-color: blue;
+}
+
+ul > li {
+  background-color: red;
+}
